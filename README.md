@@ -1,4 +1,9 @@
 # weather-forecast-app
+## Prerequisite
+```
+Before running the app,at first run the backend api in the blow Repository:
+https://github.com/mogh64/WeatherForcastApp
+```
 
 ## Project setup
 ```
